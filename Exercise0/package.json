@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethers": "^6.7.0",
+    "ethers": "v5.7",
     "nodemon": "^3.0.1"
   }
 }
